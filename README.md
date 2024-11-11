@@ -7,8 +7,8 @@ Requisitos
 3. Visualizar el gráfico: El código generará un gráfico donde las regiones con valores positivos en el perfil indican áreas hidrofóbicas, mientras que las negativas representan áreas hidrofílicas.
 
 ## Parametros
-- secuencia: Una cadena de texto que representa la secuencia de aminoácidos de la proteína.
-- ventana: Tamaño de la ventana deslizante (por defecto es 7). Un tamaño mayor de ventana suaviza el perfil de hidrofobicidad.
+- Secuencia: Una cadena de texto que representa la secuencia de aminoácidos de la proteína.
+- Ventana: Tamaño de la ventana deslizante (por defecto es 7). Un tamaño mayor de ventana suaviza el perfil de hidrofobicidad.
 
 ## Explicación del Perfil de Hidrofobicidad
 - Las regiones hidrofóbicas son aquellas donde el valor del perfil es positivo
