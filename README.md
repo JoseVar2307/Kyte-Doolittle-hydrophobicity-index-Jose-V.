@@ -14,5 +14,12 @@ Requisitos
 - Las regiones hidrofóbicas son aquellas donde el valor del perfil es positivo
 - Las regiones hidrofílicas tienen valores negativos en la grafica.
 
+## Ejemplo
+![PK](https://github.com/user-attachments/assets/696b4609-cb3f-4203-a042-0484bb605f85)
+Para perfil de hidrofobicidad completo.
+
+![PK ANALISIS](https://github.com/user-attachments/assets/41b88639-b1c2-4c4e-8a75-fc6bacbdc080)
+Para perfil de hidrofobicidad reducido a los extremos.
+
 ## Referencias
 Kyte, J., & Doolittle, R. F. (1982). A simple method for displaying the hydropathic character of a protein. Journal of Molecular Biology, 157(1), 105-132.
